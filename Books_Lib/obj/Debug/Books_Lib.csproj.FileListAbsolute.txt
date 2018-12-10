@@ -1,0 +1,13 @@
+c:\users\sam\source\repos\Books_Lib\Books_Lib\bin\Debug\Books.mdf
+c:\users\sam\source\repos\Books_Lib\Books_Lib\bin\Debug\Books_log.ldf
+c:\users\sam\source\repos\Books_Lib\Books_Lib\bin\Debug\EntityFramework.dll
+c:\users\sam\source\repos\Books_Lib\Books_Lib\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sam\source\repos\Books_Lib\Books_Lib\bin\Debug\EntityFramework.xml
+c:\users\sam\source\repos\Books_Lib\Books_Lib\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sam\source\repos\Books_Lib\Books_Lib\obj\Debug\Books_Lib.csproj.CoreCompileInputs.cache
+c:\users\sam\source\repos\Books_Lib\Books_Lib\obj\Debug\Books_Lib.dll
+c:\users\sam\source\repos\Books_Lib\Books_Lib\obj\Debug\Books_Lib.pdb
+c:\users\sam\source\repos\Books_Lib\Books_Lib\bin\Debug\Books_Lib.dll.config
+c:\users\sam\source\repos\Books_Lib\Books_Lib\bin\Debug\Books_Lib.dll
+c:\users\sam\source\repos\Books_Lib\Books_Lib\bin\Debug\Books_Lib.pdb
+c:\users\sam\source\repos\Books_Lib\Books_Lib\obj\Debug\Books_Lib.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\bin\Debug\Books_Windows_App.exe.config
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\bin\Debug\Books_Windows_App.exe
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\bin\Debug\Books_Windows_App.pdb
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\obj\Debug\Books_Windows_App.Properties.Resources.resources
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\obj\Debug\Books_Windows_App.csproj.GenerateResource.Cache
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\obj\Debug\Books_Windows_App.csproj.CoreCompileInputs.cache
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\obj\Debug\Books_Windows_App.exe
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\obj\Debug\Books_Windows_App.pdb
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\obj\Debug\Books_Windows_App.csprojResolveAssemblyReference.cache
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\obj\Debug\Books_Windows_App.Form1.resources
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\bin\Debug\Books_Lib.dll
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\bin\Debug\EntityFramework.dll
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\bin\Debug\Books_Lib.pdb
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\bin\Debug\Books_Lib.dll.config
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\bin\Debug\EntityFramework.xml
+c:\users\sam\source\repos\Books_Lib\Books_Windows_App\bin\Debug\EntityFramework.SqlServer.xml
